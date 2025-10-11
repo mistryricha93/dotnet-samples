@@ -13,6 +13,9 @@
 
 #:package Microsoft.AspNetCore.Components.WebView.WindowsForms@10.*-*
 
+#:project ..\HybridLib\HybridLib.csproj
+
+using HybridLib.Data;
 using Microsoft.AspNetCore.Components.WebView.WindowsForms;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -26,6 +29,7 @@ static class Program
     {
         var services = new ServiceCollection();
         services.AddWindowsFormsBlazorWebView();
+        services.AddSingleton<WeatherForecastService>();
 
 #if DEBUG
         services.AddBlazorWebViewDeveloperTools();
@@ -42,10 +46,10 @@ static class Program
                     Dock = DockStyle.Fill,
                     HostPage = "wwwroot/index.html",
                     Services = services.BuildServiceProvider(),
-                    StartPath = "/",
+                    StartPath = "/counter",
                     RootComponents =
                     {
-                        new RootComponent("#app", typeof(Counter), null)
+                        new RootComponent("#app", typeof(Main), null)
                     }
                 }
             }

